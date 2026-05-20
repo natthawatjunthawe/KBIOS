@@ -1,0 +1,35 @@
+{
+  "config": {
+    "logo": "KBIOS.png",
+    "background": "#f8f9fa url('https://www.transparenttextures.com/patterns/cubes.png')"
+  },
+  "searchData": [
+    { "keyword": "ระบบจัดการบุคคล (HR)", "url": "https://hr.kbios.com" },
+    { "keyword": "แจ้งซ่อมไอที (IT Support)", "url": "https://it.kbios.com" },
+    { "keyword": "เบิกค่าใช้จ่าย", "url": "https://finance.kbios.com" },
+    { "keyword": "จองห้องประชุม", "url": "https://meeting.kbios.com" },
+    { "keyword": "วันหยุดประจำปี 2026", "url": "https://hr.kbios.com/holidays" }
+  ],
+  "trending": [
+    {
+      "title": "ประกาศโบนัสและปรับฐานเงินเดือนประจำปี",
+      "image": "https://picsum.photos/400/200?random=1",
+      "url": "https://news.kbios.com/bonus"
+    },
+    {
+      "title": "ภาพบรรยากาศงาน Townhall ประจำไตรมาส",
+      "image": "https://picsum.photos/400/200?random=2",
+      "url": "https://news.kbios.com/townhall"
+    },
+    {
+      "title": "อัปเดตระบบ KBIOS เวอร์ชั่นใหม่ มีอะไรเปลี่ยนไปบ้าง?",
+      "image": "https://picsum.photos/400/200?random=3",
+      "url": "https://news.kbios.com/update"
+    },
+    {
+      "title": "อบรมพนักงาน: การป้องกันข้อมูลรั่วไหล (Cyber Security)",
+      "image": "https://picsum.photos/400/200?random=4",
+      "url": "https://training.kbios.com/security"
+    }
+  ]
+}
